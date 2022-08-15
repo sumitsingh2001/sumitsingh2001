@@ -15,7 +15,7 @@
           src="https://i.pinimg.com/originals/96/e3/25/96e325723df9868622e35559ace32635.gif"
           alt=""
           width="25%"
-          height="250px"
+          height="230px"
         />
       </a>
       <a href="#">
@@ -23,7 +23,7 @@
           src="https://i.pinimg.com/originals/25/fb/2b/25fb2b01e6099c3d1a1c1d136aa9a3a3.gif"
           alt=""
           width="25%"
-          height="250px"
+          height="230px"
         />
       </a>
       <a href="#">
@@ -31,7 +31,7 @@
           src="https://c.tenor.com/WpANM3E70QYAAAAC/gif.gif"
           alt=""
           width="24.5%"
-          height="250px"
+          height="230px"
         />
       </a>
       <a href="#">
@@ -39,7 +39,7 @@
           src="https://i.pinimg.com/originals/13/3b/22/133b22e750c8111d56b0422d2146a1ce.gif"
           alt=""
           width="24%"
-          height="250px"
+          height="230px"
         />
       </a>
     </p>
