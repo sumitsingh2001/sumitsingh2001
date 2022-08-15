@@ -194,39 +194,5 @@
     I've experience on these technologies..
     <br />
     <br />
-    <p>
-      <a href="#" align="right">
-        <img
-          src="https://i.pinimg.com/originals/41/56/77/415677f683c2107c8d1b0f7f95037789.gif"
-          alt=""
-          width="24%"
-          height="250px"
-        />
-      </a>
-      <a href="#" align="right">
-        <img
-          src="https://i.pinimg.com/originals/41/56/77/415677f683c2107c8d1b0f7f95037789.gif"
-          alt=""
-          width="24%"
-          height="250px"
-        />
-      </a>
-      <a href="#">
-        <img
-          src="https://i.pinimg.com/originals/41/56/77/415677f683c2107c8d1b0f7f95037789.gif"
-          alt=""
-          width="24%"
-          height="250px"
-        />
-      </a>
-      <a href="#">
-        <img
-          src="https://i.pinimg.com/originals/41/56/77/415677f683c2107c8d1b0f7f95037789.gif"
-          alt=""
-          width="24%"
-          height="250px"
-        />
-      </a>
-    </p>
   </body>
 </html>
