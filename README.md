@@ -7,7 +7,7 @@
   </head>
   <body>
     <p align="right">
-      THE REASON TO LOVE TECH IS UNKNOWN, IT'S AN ANONMOUS BEAUTY
+      THE REASON TO LOVE TECH IS UNKNOWN, IT'S AN ANONYMOUS BEAUTY
     </p>
     <p>
       <a href="#">
