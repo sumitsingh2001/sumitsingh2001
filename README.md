@@ -63,7 +63,7 @@
       src="https://www.kibrispdr.org/data/272/gambar-background-banner-19.jpg"
       alt=""
       width="100%"
-      height="10px"
+      height="2px"
     />
     💬 <span>"</span> I am good in HTML5, CSS3, JavaScript, sass, React.js,
     Next.js, Bootstrap5, Git, Github && daily praticing to be a good developer.
