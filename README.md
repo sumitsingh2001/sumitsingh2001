@@ -69,6 +69,9 @@
     Next.js, Bootstrap5, Git, Github && daily praticing to be a good developer.
     <br />
     <a href="/"><h3>You can find me :</h3></a>
+    <p>something is wromg here as of now</p>
+    <br />
+    <br />
     I am daily working on these techs you can probably see above, Officially
     I've experience on these technologies..
     <br />
