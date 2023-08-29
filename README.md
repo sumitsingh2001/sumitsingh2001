@@ -65,7 +65,7 @@
       width="100%"
       height="2px"
     />
-    💬 <span>"</span> I am good in HTML5, CSS3, JavaScript, sass, React.js,
+    💬 <span>"</span> I am good in HTML5, CSS3, JavaScript, sass, React.js, Redux,
     Next.js, Bootstrap5, Git, Github && daily praticing to be a good developer.
     <br />
     <a href="/"><h3>You can find me :</h3></a>
